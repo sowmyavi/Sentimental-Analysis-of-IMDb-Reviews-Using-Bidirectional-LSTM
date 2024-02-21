@@ -1,4 +1,8 @@
 # Sentimental-Analysis-of-IMDb-Reviews-Using-Bidirectional-LSTM
+
+## Dataset
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 ## Overview
 This project applies a Bidirectional Long Short-Term Memory (BiLSTM) network to perform sentiment analysis on 50,000 movie reviews from the IMDb dataset. Our goal is to accurately classify reviews as positive or negative by capturing long-term dependencies in the textual data, showcasing the power of advanced NLP techniques.
 
